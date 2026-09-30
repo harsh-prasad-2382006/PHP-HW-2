@@ -6,5 +6,7 @@
 ![Quesion 3](q3.png)
 # Question -4
 ![Quesion 4 register](q4_register.png)
+# Quesion 4 failed
 ![Quesion 4 failed](q4_error.png)
-![Quesion 4 success](q4_successpng)
+# Quesion 4 success
+![Quesion 4 success](q4_success.png)
